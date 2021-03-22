@@ -1,0 +1,2 @@
+time="2021-03-22 14:34:01" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=40 HostName=BJDP-DZ-00632 Ip=127.0.0.1 Method=POST Path=/api/v1/cate/add SpendTime="0 ms" status=200
+time="2021-03-22 14:34:05" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=202 HostName=BJDP-DZ-00632 Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="8 ms" status=200
